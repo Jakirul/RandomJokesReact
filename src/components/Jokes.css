@@ -1,0 +1,18 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: #f7f8fc;
+}
+.app {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.app h1 {
+  margin-top: 15px;
+}
+
+.inner {
+  margin: 0 auto;
+}
